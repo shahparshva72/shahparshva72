@@ -1,4 +1,1 @@
-- 👋 Hi, I’m Parshva Shah
-- 👀 I’m interested in iOS App Development and programming in Swift.
-- 🌱 Recent CS graduate student from UT Arlington (Class of 2023)
-- 👨‍💻 My GitHub profile consists of my academic projects and side projects for learning iOS App Development
+A passionate iOS and Web Developer with over a year of experience building apps using React, Next.js, Django, and Swift. Focused on creating user-friendly applications with clean code. Always eager to learn new technologies, stay up-to-date with the latest trends, and improve my knowledge and skills

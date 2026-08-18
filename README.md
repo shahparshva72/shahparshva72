@@ -22,12 +22,6 @@ A GitHub App that automatically reviews TypeScript pull requests using structure
 
 `TypeScript` · `Probot` · `GitHub Apps` · `Vercel AI SDK` · `Zod` · `Docker` · `Cloud Run`
 
-### 🧭 [Git Blame Narrator](https://github.com/shahparshva72/git-blame-narrator)
-
-Turns repository history into readable engineering narratives instead of making you manually reconstruct context from `git blame` and commit history.
-
-`Effect` · `TypeScript` · `React` · `Drizzle` · `PostgreSQL` · `Redis` · `GitHub OAuth`
-
 ### ⚡ [Zap Extension](https://github.com/shahparshva72/zap-extension)
 
 A Chromium extension inspired by Arc Boosts for removing elements, recoloring pages, changing fonts, and overriding text on a per-site basis.

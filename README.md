@@ -8,6 +8,12 @@ Currently interested in **backend & platform engineering, distributed systems, p
 
 ## What I'm building
 
+### 🥁 [Not Quite My Tempo](https://notmytempo.dev) · [repo](https://github.com/shahparshva72/not-quite-my-tempo)
+
+An AI pull-request reviewer, now live. Install the GitHub App and Fletcher leaves inline review comments on every PR, ranked by severity — with self-serve onboarding, bring-your-own Gemini key, and a paid plan for hosted reviews.
+
+`TypeScript` · `Cloudflare Workers` · `D1` · `Hono` · `Effect` · `Drizzle` · `GitHub Apps` · `Gemini`
+
 ### 🏏 [Boundary Bytes](https://github.com/shahparshva72/boundary-bytes)
 
 A cricket analytics platform with interactive statistics, player comparisons, custom report building, games, and multi-league support.

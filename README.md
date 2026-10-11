@@ -22,9 +22,9 @@ A cricket analytics platform with interactive statistics, player comparisons, cu
 
 The backend lives in **[boundary-bytes-go-backend](https://github.com/shahparshva72/boundary-bytes-go-backend)** and uses Go with Chi + pgx for the API/data layer.
 
-### 🎼 [Fletcher Code Review Bot](https://github.com/shahparshva72/fletcher-code-review-bot)
+### 🎼 [Fletcher Code Review Bot](https://github.com/shahparshva72/fletcher-code-review-bot) (older prototype)
 
-A GitHub App that automatically reviews TypeScript pull requests using structured LLM output, inline review comments, configurable review rules, and provider-agnostic model support.
+The earlier prototype that grew into Not Quite My Tempo: a GitHub App that automatically reviews TypeScript pull requests using structured LLM output, inline review comments, configurable review rules, and provider-agnostic model support.
 
 `TypeScript` · `Probot` · `GitHub Apps` · `Vercel AI SDK` · `Zod` · `Docker` · `Cloud Run`
 
